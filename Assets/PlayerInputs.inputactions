@@ -1,0 +1,56 @@
+{
+    "name": "PlayerInputs",
+    "maps": [
+        {
+            "name": "Controls",
+            "id": "e122db45-11d0-4f00-a088-7352b4d672d8",
+            "actions": [
+                {
+                    "name": "Hit",
+                    "type": "Button",
+                    "id": "5e91b63e-8f60-4faf-a7f1-9bd6c40f9670",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a2ee03aa-bd46-40e2-902f-5ce0e17e4b51",
+                    "path": "<Touchscreen>/primaryTouch/tap",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Hit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c257bc90-c438-464f-8987-8985568b07cd",
+                    "path": "<Mouse>/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Hit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ad5870a5-baba-4121-8da9-cc2175d28ffe",
+                    "path": "<Keyboard>/anyKey",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Hit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

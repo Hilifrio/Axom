@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projets\\Jeux\\Unity\\Axom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9161E7CE-007E-9B66-9CE4-26D70CCFF659}|Assembly-CSharp.csproj|e:\\projets\\jeux\\unity\\axom\\assets\\scripts\\zonemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9161E7CE-007E-9B66-9CE4-26D70CCFF659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zonemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9161E7CE-007E-9B66-9CE4-26D70CCFF659}|Assembly-CSharp.csproj|e:\\projets\\jeux\\unity\\axom\\assets\\hitzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9161E7CE-007E-9B66-9CE4-26D70CCFF659}|Assembly-CSharp.csproj|solutionrelative:assets\\hitzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9161E7CE-007E-9B66-9CE4-26D70CCFF659}|Assembly-CSharp.csproj|e:\\projets\\jeux\\unity\\axom\\assets\\scripts\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9161E7CE-007E-9B66-9CE4-26D70CCFF659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9161E7CE-007E-9B66-9CE4-26D70CCFF659}|Assembly-CSharp.csproj|E:\\Projets\\Jeux\\Unity\\Axom\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9161E7CE-007E-9B66-9CE4-26D70CCFF659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projets\\Jeux\\Unity\\sus-project\\Assets\\Scripts\\PoolSystem\\PoolManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9161E7CE-007E-9B66-9CE4-26D70CCFF659}|Assembly-CSharp.csproj|E:\\Projets\\Jeux\\Unity\\Axom\\assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9161E7CE-007E-9B66-9CE4-26D70CCFF659}|Assembly-CSharp.csproj|solutionrelative:assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZoneManager.cs",
+              "DocumentMoniker": "E:\\Projets\\Jeux\\Unity\\Axom\\Assets\\Scripts\\ZoneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZoneManager.cs",
+              "ToolTip": "E:\\Projets\\Jeux\\Unity\\Axom\\Assets\\Scripts\\ZoneManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZoneManager.cs",
+              "ViewState": "AQIAAPYAAAAAAAAAAAAAAA8BAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:41:53.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PoolManager.cs",
+              "DocumentMoniker": "E:\\Projets\\Jeux\\Unity\\sus-project\\Assets\\Scripts\\PoolSystem\\PoolManager.cs",
+              "RelativeDocumentMoniker": "..\\sus-project\\Assets\\Scripts\\PoolSystem\\PoolManager.cs",
+              "ToolTip": "E:\\Projets\\Jeux\\Unity\\sus-project\\Assets\\Scripts\\PoolSystem\\PoolManager.cs",
+              "RelativeToolTip": "..\\sus-project\\Assets\\Scripts\\PoolSystem\\PoolManager.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:02:19.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "E:\\Projets\\Jeux\\Unity\\Axom\\Assets\\Scripts\\Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Movement.cs",
+              "ToolTip": "E:\\Projets\\Jeux\\Unity\\Axom\\Assets\\Scripts\\Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Movement.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:40:07.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\Projets\\Jeux\\Unity\\Axom\\Assets\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Player.cs",
+              "ToolTip": "E:\\Projets\\Jeux\\Unity\\Axom\\Assets\\Player.cs",
+              "RelativeToolTip": "Assets\\Player.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:42:49.903Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "90bdcfd8-1abb-4df9-9bc3-620f88a50e14",
+        "Display": 0,
+        "X": 263,
+        "Y": -26,
+        "Width": 1907,
+        "Height": 752,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Zone.cs",
+              "DocumentMoniker": "E:\\Projets\\Jeux\\Unity\\Axom\\Assets\\Scripts\\Zone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Zone.cs",
+              "ToolTip": "E:\\Projets\\Jeux\\Unity\\Axom\\Assets\\Scripts\\Zone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Zone.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA1wC4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:21:49.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HitZone.cs",
+              "DocumentMoniker": "E:\\Projets\\Jeux\\Unity\\Axom\\Assets\\HitZone.cs",
+              "RelativeDocumentMoniker": "Assets\\HitZone.cs",
+              "ToolTip": "E:\\Projets\\Jeux\\Unity\\Axom\\Assets\\HitZone.cs",
+              "RelativeToolTip": "Assets\\HitZone.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAIwF4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:25:50.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
